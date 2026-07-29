@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1200&pause=2000&lines=Hello,+my+name+is+Ada+Brandão.;I+study+analysis+and+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbybrandxm&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_colorFF8C00&bg_color=0d1117" alt="Ada Brandão github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbybrandx&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_colorFF8C00&bg_color=0d1117" alt="Ada Brandão github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbybrandx&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=0d1117" />
 </div>
 
